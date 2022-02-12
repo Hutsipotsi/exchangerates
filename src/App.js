@@ -41,7 +41,7 @@ function App() {
           </div>
           <div>
             <label>Gbp</label>&nbsp;
-            <output>{gbp.toFixed(2)} €</output>
+            <output>{gbp.toFixed(2)} </output>
           </div>
           <div>
             <button>Calculate</button>
